@@ -47,3 +47,6 @@ XGBoost Classifier
 CatBoost Classifier
 
 * Hyperparameter tuning using RandomizedSearchCV and GridSearchCV for the two best performant classifiers.
+
+## Make predictions
+Once evaluated the best model which gives the lowest RSLME, use it to make predictions on test data.

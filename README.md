@@ -20,7 +20,9 @@ Repo for the Regression House Price competition project
 ## EDA: Exploratory Data Analysis
 The EDA made shows how data is distributed and relation between different features. Following few highlights from the graphs dispalyed:
 
-![alt text]
+![alt text](https://github.com/davideragone/House_Price_Iowa_Project/blob/main/Pictures/Corr_matrix.png)
+![alt text](https://github.com/davideragone/House_Price_Iowa_Project/blob/main/Pictures/First_floor_Sale_price_regplot.png)
+![alt text](https://github.com/davideragone/House_Price_Iowa_Project/blob/main/Pictures/Qual_price_scatter.png)
 
 
 

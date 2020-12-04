@@ -1,5 +1,7 @@
 # House_Price_Iowa_Project
-Repo for the Regression House Price competition project
+Repo for the Regression House Price competition project:
+
+https://www.kaggle.com/c/iowa-house-prices-regression-techniques/data
 
 # Project Overview
 
